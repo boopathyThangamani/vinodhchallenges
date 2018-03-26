@@ -1,0 +1,7 @@
+c:\VinodhChallenges\VinodhChallenges\NoOfClassedNeeded\bin\Debug\NoOfClassedNeeded.exe.config
+c:\VinodhChallenges\VinodhChallenges\NoOfClassedNeeded\bin\Debug\NoOfClassedNeeded.exe
+c:\VinodhChallenges\VinodhChallenges\NoOfClassedNeeded\bin\Debug\NoOfClassedNeeded.pdb
+c:\VinodhChallenges\VinodhChallenges\NoOfClassedNeeded\obj\Debug\NoOfClassedNeeded.csprojResolveAssemblyReference.cache
+c:\VinodhChallenges\VinodhChallenges\NoOfClassedNeeded\obj\Debug\NoOfClassedNeeded.csproj.CoreCompileInputs.cache
+c:\VinodhChallenges\VinodhChallenges\NoOfClassedNeeded\obj\Debug\NoOfClassedNeeded.exe
+c:\VinodhChallenges\VinodhChallenges\NoOfClassedNeeded\obj\Debug\NoOfClassedNeeded.pdb
